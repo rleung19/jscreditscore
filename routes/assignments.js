@@ -1,4 +1,4 @@
-var resultData = requre('../data/assignments');
+var resultData = require('../data/assignments');
 
 exports.getAssignments = function(req, res){
     res.setHeader('Content-Type', 'application/json');
