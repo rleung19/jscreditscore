@@ -6,6 +6,7 @@
     },
     {
       "description": "Off-track Event for Car Thermo at lap 2 in race 91",
-      "imageUrl": "https://docs-gse00000309.sites.us2.oraclecloud.com/ChatbotMedia/_themesdelivery/ChatbotMediaTheme/assets/images/anki/thermo_incident.jpg"
+      "imageUrl": "https://docs-gse00000309.sites.us2.oraclecloud.com/ChatbotMedia/_themesdelivery/ChatbotMediaTheme/assets/images/anki/thermo_incident.jpg",
+      "incident": "ORC-81906"
     }
 ]
